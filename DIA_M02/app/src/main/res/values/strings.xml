@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">DIA_M02</string>
+    <string name="_1">버튼 1</string>
+    <string name="_3">버튼 3</string>
+    <string name="_2">버튼 2</string>
 </resources>
